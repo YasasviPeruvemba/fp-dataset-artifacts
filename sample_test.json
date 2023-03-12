@@ -1,0 +1,14 @@
+[
+    {"premise": "The lion ate the rabbit.", "hypothesis": "The rabbit ate the lion.", "label": 2},
+    {"premise": "Adults are playing soccer.", "hypothesis": "Soccer was being played by adults.", "label": 1},
+    {"premise": "A person is tanning in a pool.", "hypothesis": "A person may be tanning in a pool.", "label": 0},
+    {"premise": "A person finds his dinner tasty.", "hypothesis": "A person finds his breakfast tasty.", "label": 1},
+    {"premise": "Women are dressed well.", "hypothesis": "Men are dressed well.", "label": 1},
+    {"premise": "I saw the sunrise today.", "hypothesis": "The sun rises in the east.", "label": 0},
+    {"premise": "I saw the sunrise today.", "hypothesis": "The sun does not rise.", "label": 2},
+    {"premise": "Only men are eating and the women are cooking.", "hypothesis": "Women are not eating.", "label": 0},
+    {"premise": "He is playing basketball and she is watching.", "hypothesis": "She is not playing basketball.", "label": 0},
+    {"premise": "The road may develop a big hole.", "hypothesis": "The road develops a large hole.", "label": 1},
+    {"premise": "Cats love burgers.", "hypothesis": "Cats like to eat burgers.", "label": 0},
+    {"premise": "Life is unpredictable.", "hypothesis": "You never know.", "label": 0}
+]
